@@ -1,9 +1,9 @@
 from django.shortcuts import render
-
+## removed infosite from request
 def index(request):
-    return render(request, 'infosite/index.html')
+    return render(request, 'index.html')
 
 def about(request):
-    return render(request, 'infosite/about.html')
+    return render(request, 'about.html')
 
 
