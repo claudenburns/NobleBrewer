@@ -13,7 +13,7 @@
     <link rel="stylesheet" type ="text/css" href="{% static 'infosite/bootstrap.css' %}">
     <style>
       body {
-        padding-top: 600px;
+        padding-top: 60px;
         padding-bottom: 40px;
       }
     </style>
@@ -78,7 +78,7 @@
             </a>
             <div class="carousel-caption">
               <p>Watching and Judging</p>
-              <p><a href=www.beertopia.tumblr.com>beertopia.tumblr.com &raquo;</a></p>
+              <p><a href=http://www.beerphoria.tumblr.com>beertopia.tumblr.com &raquo;</a></p>
             </div>
           </div>
           <div class="item">
@@ -86,7 +86,7 @@
             </a>
             <div class="carousel-caption">
               <p>Picnic Beers</p>
-              <p><a href=www.beertopia.tumblr.com>beertopia.tumblr.com &raquo;</a></p>
+              <p><a href=http://www.beerphoria.tumblr.com>beertopia.tumblr.com &raquo;</a></p>
             </div>
           </div>
           <div class="item">
@@ -94,7 +94,7 @@
             </a>
             <div class="carousel-caption">
               <p>Jesse Examining</p>
-              <p><a href=www.beertopia.tumblr.com>beertopia.tumblr.com &raquo;</a></p>
+              <p><a href=http://www.beerphoria.tumblr.com>beertopia.tumblr.com &raquo;</a></p>
             </div>
           </div>
           <div class="item">
@@ -102,7 +102,7 @@
             </a>
             <div class="carousel-caption">
               <p>Claude in a Glass</p>
-              <p><a href=www.beertopia.tumblr.com>beertopia.tumblr.com &raquo;</a></p>
+              <p><a href=http://www.beerphoria.tumblr.com>beertopia.tumblr.com &raquo;</a></p>
             </div>
           </div>
         </div><!-- .carousel-inner -->
@@ -135,7 +135,7 @@
       <hr>
 
       <footer>
-        <p><a>All Rights Reserved 2013</a> <a></a><a></a></p>
+        <p><u>All Rights Reserved 2013</u></p>
       </footer>
 
     </div> <!-- /container -->
