@@ -26,6 +26,8 @@ DEBUG = True
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 TEMPLATE_DEBUG = False
+##Template change
+TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'templates')]
 
 # Allow all host headers
 ALLOWED_HOSTS = ['*']
